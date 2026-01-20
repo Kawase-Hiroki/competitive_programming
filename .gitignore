@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+# atcoder problems object file name
+A
+B
+C
+D
+E
+F
+G
